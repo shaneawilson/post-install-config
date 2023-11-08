@@ -41,8 +41,7 @@ Here, we are creating new roles and departments as a system administrator, withi
 
 ![image](https://github.com/shaneawilson/post-install-config/assets/148294831/f470892f-da0b-4bf6-a482-46942f72e494)
 
-<p>We have now created users for the OsTicketing System. They create tickets so that the Support teams can solve their issues.
-<br />
+<p>We have now created users for the OsTicketing System. They create tickets so that the Support teams can solve their issues. Operating under the admin panel, I will be assigning customer tickets to departments/individuals based on the severity level.    
 
 ![image](https://github.com/shaneawilson/post-install-config/assets/148294831/da5cdc02-e93d-447c-b9f9-767621b50fb3)
 
